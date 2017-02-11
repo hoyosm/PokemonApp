@@ -1,0 +1,11 @@
+<div ng-controller="pokemonsController as poke" class="container-fluid">
+    <div class="container">
+        <div ng-repeat="(key, value) in poke.data" class="col-sm-6 col-md-3">
+            <a class="btn btn-default" href="#" role="button">
+                <img alt='{{value.name}}' class="img-responsive center-block" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/{{(key+1)}}.png">
+                <p class="{{value.name}}">{{value.name}}</p>
+                
+            </a>
+        </div>        
+    </div>
+</div>

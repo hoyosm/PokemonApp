@@ -1,0 +1,31 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Margarita",
+  "contributors": [],
+  "dependencies": {},
+  "description": "psl-app",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-inject-partials": "^1.0.2",
+    "gulp-uglify": "^2.0.1",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}

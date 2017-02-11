@@ -1,0 +1,216 @@
+body {
+  background-color: #7EABA6;
+}
+.input-group {
+  background-color: rgba(0, 0, 0, 0.45);
+  padding: 20px 20px 0px 20px;
+}
+.btn {
+  display: block;
+  margin-bottom: 25px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  border: 2px solid #7EABA6;
+  padding: 0;
+}
+.btn p {
+  margin: 0 !important;
+  color: white;
+  padding: 10px 0;
+  font-size: 18px;
+}
+.btn:hover {
+  background-color: white;
+  border: 2px solid #1B356A;
+}
+.jumbotron {
+  background-image: url(../assets/img/bg-pokemon.jpg);
+  background-size: cover;
+  padding-top: 250px;
+  border-bottom: 10px solid #1B356A;
+}
+@media (min-width: 992px) {
+  .jumbotron {
+    padding-top: 300px;
+    padding-bottom: 120px;
+    border-bottom: 20px solid #1B356A;
+  }
+}
+@media (min-width: 1400px) {
+  .jumbotron {
+    padding-top: 380px;
+    padding-bottom: 200px;
+    border-bottom: 50px solid #1B356A;
+  }
+}
+.navbar {
+  position: absolute;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+.navbar img {
+  margin: 10px auto;
+  display: block;
+}
+footer {
+  background-color: #1B356A;
+  color: white;
+  padding: 20px;
+}
+.details .container-fluid {
+  padding: 30px 0;
+}
+.details .navbar {
+  position: relative;
+  background-image: url(../img/bg-pokemon.jpg);
+  background-repeat: no-repeat;
+  box-shadow: 0 0 0 1000px rgba(255, 255, 255, 0.8) inset;
+  border: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.details p {
+  color: white;
+  font-size: 20px;
+}
+.details .img-detail {
+  background-color: white;
+  display: block;
+}
+.details .img-detail img {
+  width: 75%;
+}
+.details .img-detail p {
+  margin: 0 !important;
+  color: white;
+  padding: 10px 0;
+  font-size: 22px;
+  text-align: center;
+}
+.details h2 {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+.c100::after {
+  background-color: #7eaba6 !important;
+}
+.c100 {
+  background-color: #97c4bf !important;
+}
+.bulbasaur {
+  background-color: #5E8F65;
+}
+.butterfree {
+  background-color: #DA766E;
+}
+.caterpie {
+  background-color: #5E8F65;
+}
+.charmander {
+  background-color: #E37F4F;
+}
+.clefairy {
+  background-color: #BC92AA;
+}
+.diglett {
+  background-color: #B89984;
+}
+.ekans {
+  background-color: #8A617F;
+}
+.gloom {
+  background-color: #DEA28D;
+}
+.horsea {
+  background-color: #81D0EA;
+}
+.jigglypuff {
+  background-color: #DEACB5;
+}
+.nidoran {
+  background-color: #9FB4DD;
+}
+.nidorina {
+  background-color: #97BFC8;
+}
+.parasect {
+  background-color: #D695AF;
+}
+.picachu {
+  background-color: #F2CE62;
+}
+.pidgey {
+  background-color: #C0B38D;
+}
+.psyduck {
+  background-color: #F2C777;
+}
+.rattata {
+  background-color: #A286AD;
+}
+.sandslash {
+  background-color: #936B3A;
+}
+.squirtle {
+  background-color: #91C6D3;
+}
+.tangela {
+  background-color: #E88B78;
+}
+.zubat {
+  background-color: #B28BB6;
+}
+.weedlee {
+  background-color: #997255;
+}
+.vulpix {
+  background-color: #E78D5D;
+}
+.vaporeon {
+  background-color: #6298A8;
+}
+.ivysaur {
+  background-color: #DB8C6F;
+}
+.venusaur {
+  background-color: #80F295;
+}
+.charmeleon {
+  background-color: #FAEE06;
+}
+.charizard {
+  background-color: #270454;
+}
+.wartortle {
+  background-color: #CDDFF6;
+}
+.blastoise {
+  background-color: #DFD3A8;
+}
+.metapod {
+  background-color: #06F81E;
+}
+.weedle {
+  background-color: #F59CCE;
+}
+.kakuna {
+  background-color: #F0DB25;
+}
+.beedrill {
+  background-color: #CCC9AA;
+}
+.pidgeotto {
+  background-color: #F07115;
+}
+.pidgeot {
+  background-color: #FF6A49;
+}
+.raticate {
+  background-color: #F6ACD2;
+}
+/*# sourceMappingURL=main.css.map */
